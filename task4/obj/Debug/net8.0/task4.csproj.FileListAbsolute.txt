@@ -1,0 +1,14 @@
+D:\c# practic\practic_2\task4\bin\Debug\net8.0\task4.exe
+D:\c# practic\practic_2\task4\bin\Debug\net8.0\task4.deps.json
+D:\c# practic\practic_2\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+D:\c# practic\practic_2\task4\bin\Debug\net8.0\task4.dll
+D:\c# practic\practic_2\task4\bin\Debug\net8.0\task4.pdb
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.dll
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\refint\task4.dll
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.pdb
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+D:\c# practic\practic_2\task4\obj\Debug\net8.0\ref\task4.dll
